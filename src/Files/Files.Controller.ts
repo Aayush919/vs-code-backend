@@ -1,6 +1,6 @@
 import { Request, Response } from "express";
 import { FileModel } from "./Files.modal";
-import { Types } from "aws-sdk/clients/acm";
+
 
 
 // GET all files
