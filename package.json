@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PSQUARE-COMPANY-OFFICIAL/ABHIRACHNA-BACKEND-MAIN#readme",
   "description": "",
+"type":"module",
 
  
   "dependencies": {
